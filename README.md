@@ -13,7 +13,7 @@
 
 ## Setup
 
-Make sure that you are on the `master` branch of your `wdi-remote-r2d2` repo.
+Make sure that you are on the `master` branch of your `wdi-remote-matey` repo.
 Then run `git pull upstream master` to pull the latest materials from the
 instructors' repository. You shouldn't hit a merge conflict here, but if you do,
 flag down an instructor right away.
@@ -33,7 +33,7 @@ When you're ready to submit,
 2.  Run the command `npm test` from the same directory, and take a screenshot of
     the output in your terminal.
 3.  Push your code to your fork of the class repo.
-4.  File an issue on the class repo titled "YourGitHubUsername -- Week 01 Day 02".
+4.  File an issue on the class repo titled "Your Name -- w01d02".
 
 The issue should include:
 
